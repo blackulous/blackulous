@@ -6,7 +6,7 @@
 ### I'm a Mixed Methods Researcher | Product Designer 
 
 👩🏽‍🎓 I studied Statistics at Rutgers University New Brunswick<br/>
-📚 I am Currently learning about Natural Language Processing<br/>
+📚 I am currently learning about Natural Language Processing<br/>
 👩🏾‍💻 Check out my design work and case studies on [my design website](https://www.designsbyph.com/)<br/>
 
 ## 🤓 Tech Stack 
