@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**blackulous/blackulous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Bio and Stats --->
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Patience!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Mixed Methods Researcher | Product designer 
+
+👩🏽‍🎓 Studied Statistics at Rutgers Univeristy New Brunswick<br/>
+📚 Currently learning about Natural Language Processing<br/>
+👩🏾‍💻 Check out my design work and case studies on [my design website](https://www.designsbyph.com/)<br/>
+
+
+[![Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackulous)](https://github.com/blackulous/github-readme-stats)
+
+
+
