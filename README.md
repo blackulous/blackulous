@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Patience!
 
-### I'm a Mixed Methods Researcher | Product designer 
+### I'm a Mixed Methods Researcher | Product Designer 
 
 👩🏽‍🎓 I studied Statistics at Rutgers University New Brunswick<br/>
 📚 I am Currently learning about Natural Language Processing<br/>
