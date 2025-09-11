@@ -1,7 +1,7 @@
 
 <!-- Bio and Stats --->
 
-# Hi there 👋, I'm Patience!
+# Hi :)) I'm Patience!
 
 ### I'm a Mixed Methods Researcher | Product Designer 
 
