@@ -5,7 +5,7 @@
 
 ### I'm a Mixed Methods Researcher | Product Designer 
 
-👩🏽‍🎓 I studied Statistics at Rutgers University New Brunswick<br/>
+👩🏽‍🎓 I studied Statistics/Math at Rutgers University New Brunswick<br/>
 📚 I am currently learning about Natural Language Processing and anomaly detection<br/>
 👩🏾‍💻 Check out my design work and case studies on [my design website](https://www.designsbyph.com/)<br/>
 
