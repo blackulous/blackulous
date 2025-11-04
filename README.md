@@ -9,7 +9,6 @@
 
 🗓️ I'm currently volunteering as a Database Designer for [Rows For The Hungry](https://www.rowsforthehungry.org/) leading the design of a scalable data infrastructure to manage crop yields and food distribution. Our template will be used to support and guide statewide nonprofit farm expansion. <br/>
 
-👩🏾‍💻 Check out my design work and case studies on [my design website](https://www.designsbyph.com/)<br/>
 
 ## 🤓 Tech Stack 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
