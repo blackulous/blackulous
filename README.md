@@ -3,7 +3,7 @@
 
 # Hi :)) I'm Patience!
 
-### I'm a analyst and Designer  
+### I'm a analyst/designer/researcher/pretty much everything  
 
 👩🏽‍🎓 I studied Statistics/Math at Rutgers University New Brunswick<br/>
 
