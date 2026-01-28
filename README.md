@@ -3,11 +3,11 @@
 
 # Hi :)) I'm Patience!
 
-### I'm a Mixed Methods Researcher | Analyst 
+### I'm a analyst and Designer  
 
 👩🏽‍🎓 I studied Statistics/Math at Rutgers University New Brunswick<br/>
 
-🗓️ I'm currently volunteering as a Database Designer for [Rows For The Hungry](https://www.rowsforthehungry.org/) leading the design of a scalable data infrastructure to manage crop yields and food distribution. Our template will be used to support and guide statewide nonprofit farm expansion. <br/>
+🗓️ I'm currently working as a logistics coordinator in the customs brokerage department at [Expeditors](https://www.expeditors.com/) <br/>
 
 
 ## 🤓 Tech Stack 
