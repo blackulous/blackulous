@@ -5,13 +5,8 @@
 
 ### Statistics Graduate • Trade Analytics • Data Visualization 
 
-👩🏽‍🎓 Statistics graduate with a minor in Mathematics from Rutgers University–New Brunswick.
+I'm a Statistics graduate with a minor in Mathematics from Rutgers University–New Brunswick. My passion lies in the intersection of data and design. Transforming complex trade and logistics data into intuitive dashboards, interactive visualizations, and clear business insights. I am currently learning front-end development (HTML,CSS, Javascript, and D3.js) to create more personalized web based data visuals. I currently work as a customs brokerage agent at Expeditors supporting import operations, customs compliance, and process improvement for high-volume international shipments.
 
-🌎 Currently working in Customs Brokerage at Expeditors, supporting import operations, customs compliance, and process improvement for high-volume international shipments.
-
-📊 Passionate about transforming complex trade and logistics data into intuitive dashboards, interactive visualizations, and clear business insights.
-
-💻 Currently learning front-end development (HTML, CSS, JavaScript, and D3.js) to build custom data visualization experiences for the web. 
 
 My Interest Areas Include:
 - International Trade & Customs
@@ -22,9 +17,7 @@ My Interest Areas Include:
 - Front-End Development
 - UX/UI Design
 
-⚡ I enjoy combining statistics, design, and programming to make complex information easier to understand.
-
-🌱 Currently working on:
+Currently working on the following:
 - Building a trade & customs data visualization portfolio
 - Learning D3.js and modern JavaScript
 - Preparing for the Customs Broker License Exam
