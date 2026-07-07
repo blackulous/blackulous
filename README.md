@@ -3,11 +3,33 @@
 
 # Hi :)) I'm Patience!
 
-### I'm a analyst/designer/researcher/pretty much everything  
+### Statistics Graduate • Trade Analytics • Data Visualization 
 
-👩🏽‍🎓 I studied Statistics/Math at Rutgers University New Brunswick<br/>
+👩🏽‍🎓 Statistics graduate with a minor in Mathematics from Rutgers University–New Brunswick.
 
-🗓️ I'm currently working as a logistics coordinator in the customs brokerage department at [Expeditors](https://www.expeditors.com/) <br/>
+🌎 Currently working in Customs Brokerage at Expeditors, supporting import operations, customs compliance, and process improvement for high-volume international shipments.
+
+📊 Passionate about transforming complex trade and logistics data into intuitive dashboards, interactive visualizations, and clear business insights.
+
+💻 Currently learning front-end development (HTML, CSS, JavaScript, and D3.js) to build custom data visualization experiences for the web. 
+
+My Interest Areas Include:
+- International Trade & Customs
+- Trade Compliance Analytics
+- Data Visualization
+- Information Design
+- Process Automation
+- Front-End Development
+- UX/UI Design
+
+⚡ I enjoy combining statistics, design, and programming to make complex information easier to understand.
+
+🌱 Currently working on:
+- Building a trade & customs data visualization portfolio
+- Learning D3.js and modern JavaScript
+- Preparing for the Customs Broker License Exam
+- Creating interactive dashboards and infographics
+
 
 
 ## 🤓 Tech Stack 
