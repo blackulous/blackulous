@@ -17,7 +17,7 @@ My Interest Areas Include:
 - Information Design
 - Process Automation
 - Front-End Development
-- UX/UI Design
+- Design
 
 Currently working on the following:
 - Building a trade & customs data visualization portfolio
