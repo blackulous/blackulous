@@ -37,8 +37,4 @@ Currently working on the following:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📊 Github Stats  
-[![Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackulous)](https://github.com/blackulous/github-readme-stats)
-
-
 
